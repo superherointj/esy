@@ -1,6 +1,6 @@
 (library
  (name EsySolve)
- (public_name esy_solve)
+ (public_name esySolve)
  (inline_tests)
  (flags
   (:standard
